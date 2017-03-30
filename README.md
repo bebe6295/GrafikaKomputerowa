@@ -1,1 +1,2 @@
 # GrafikaKomputerowa
+Justyna Stojek
